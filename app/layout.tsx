@@ -8,7 +8,7 @@ import ConvexClerkProvider from "@/providers/ConvexClerkProvider";
 const manrope = Manrope({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Podcastr",
+  title: "PodcastBanaye",
   description: "Generate your podcast using AI",
   icons: {
     icon: "/icons/logo.svg",
